@@ -3,7 +3,11 @@
 一个简单的图片浏览器，基本功能已具备，方便二次开发
 
 ![image](https://github.com/yhcflyy/YHCImageViewer/blob/master/screenShot/QQ20170301-161656.gif)
-使用方法
+
+
+使用说明：
+
+
 
 YHCImageBrowser *browser = [[YHCImageBrowser alloc]init];
 browser.mArrData = @[@"http://www.wallcoo.com/animal/Dogs_Summer_and_Winter/wallpapers/1920x1200/DogsB10_Lucy.jpg",
